@@ -2,7 +2,7 @@
 Ultimate Accessibility guide for web apps
 
 ## Basics
-  Common misbelief is Web Accessibility is for blind people. Accessibility is not just for **blind people**. It should include needs of people who have physical, hearing, cognitive disabilities. A good example of such is closed caption for deaf.
+  Common misbelief is Web Accessibility is only for blind people. Accessibility is not just for **blind people**. It should include needs of people who have physical, hearing, cognitive disabilities. A good example of such is closed caption for deaf.
 
 ## Semantic tags
   For the starters, use `header`, `nav`, `article`, `section`, `aside`, and `footer` elements
